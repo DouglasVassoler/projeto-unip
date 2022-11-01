@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1667236172 source:c:\pim2\projetopim\main.c
+	"stdio.h"
+	"string.h"
+	"windows.h"
+	"conio.h"
+	"telainicial.h"
+	"telalogin.h"
+
+1666957833 c:\pim2\projetopim\projetopim.h
+
+1666958073 source:c:\pim2\projetopim\telalogin.c
+	"projetopim.h"
+	"stdio.h"
+	"string.h"
+	"conio.h"
+
+1667327618 c:\pim2\projetopim\telalogin.h
+	"stdio.h"
+	"string.h"
+	"windows.h"
+	"conio.h"
+	"telainicial.h"
+
+1667227349 c:\pim2\projetopim\telainicial.h
+	"stdio.h"
+	"string.h"
+	"windows.h"
+	"conio.h"
+
