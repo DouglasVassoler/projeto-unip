@@ -4,13 +4,24 @@
 #include "conio.h"
 #include "telainicial.h"
 #include "telalogin.h"
+#include "menuop.h"
+
 
 int main()
 {
+
+
  telainicial();
 
- telalogin();
+ molde();
+ gotoxy(33,1);
 
+telalogin();
 
- return 0;
+if(logvalidado = 1);
+{
+
+menuopcoes();
+}
+return 0;
 }

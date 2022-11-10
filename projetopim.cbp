@@ -34,6 +34,8 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="menuop.h" />
+		<Unit filename="moldetela.h" />
 		<Unit filename="telainicial.h" />
 		<Unit filename="telalogin.h" />
 		<Extensions>
